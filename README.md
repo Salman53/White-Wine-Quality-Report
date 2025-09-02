@@ -56,7 +56,7 @@ Density and sulfur dioxide levels also play key roles in classification.
 🚀 How to Run
 
 Clone the repository
-git clone https://github.com/yourusername/white-wine-quality.git
+git clone https://github.com/Salman53/White-Wine-Quality-Report
 
 Open the project in R or RStudio
 
